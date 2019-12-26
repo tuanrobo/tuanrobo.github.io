@@ -24,7 +24,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-tsconfig.json
+tsconfig.json*
 /src
 /public
 build/static/css/*.map
