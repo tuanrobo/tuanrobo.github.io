@@ -1,12 +1,12 @@
 {
-	"homepage": "https://tuanrobo.github.io/frontend",
+	"homepage": "https://tuanrobo.github.io",
 	"name": "frontend",
 	"main": "index.html",
 	"version": "0.1.0",
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tuanrobo/frontend"
+		"url": "https://github.com/tuanrobo/tuanrobo.github.io"
 	},
 	"engines": {
 		"node": "10.x"
