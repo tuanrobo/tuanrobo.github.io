@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tuanrobosite/static/css/main.b4e0f542.chunk.css",
+    "main.js": "/tuanrobosite/static/js/main.a020efaf.chunk.js",
+    "main.js.map": "/tuanrobosite/static/js/main.a020efaf.chunk.js.map",
+    "runtime-main.js": "/tuanrobosite/static/js/runtime-main.a5c8ef40.js",
+    "runtime-main.js.map": "/tuanrobosite/static/js/runtime-main.a5c8ef40.js.map",
+    "static/css/2.a1596f27.chunk.css": "/tuanrobosite/static/css/2.a1596f27.chunk.css",
+    "static/js/2.2e38a752.chunk.js": "/tuanrobosite/static/js/2.2e38a752.chunk.js",
+    "static/js/2.2e38a752.chunk.js.map": "/tuanrobosite/static/js/2.2e38a752.chunk.js.map",
+    "static/js/3.da489dbd.chunk.js": "/tuanrobosite/static/js/3.da489dbd.chunk.js",
+    "static/js/3.da489dbd.chunk.js.map": "/tuanrobosite/static/js/3.da489dbd.chunk.js.map",
+    "index.html": "/tuanrobosite/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/tuanrobosite/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.b4e0f542.chunk.css.map": "/tuanrobosite/static/css/main.b4e0f542.chunk.css.map",
+    "static/js/2.2e38a752.chunk.js.LICENSE.txt": "/tuanrobosite/static/js/2.2e38a752.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5c8ef40.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.2e38a752.chunk.js",
+    "static/css/main.b4e0f542.chunk.css",
+    "static/js/main.a020efaf.chunk.js"
+  ]
+}
